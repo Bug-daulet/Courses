@@ -1,3 +1,4 @@
+django
 argon2-cffi
 asgiref==3.2.10
 certifi==2020.6.20
